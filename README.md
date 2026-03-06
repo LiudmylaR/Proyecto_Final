@@ -47,6 +47,23 @@ El propósito final es transformar datos transaccionales en insights accionables
     * Matplotlib
 - Power BI
 
+**Conjuntos de datos**
+
+El conjunto de datos completo utilizado en este proyecto es extenso y no se puede almacenar directamente en GitHub.
+
+Puede descargarlo aquí:
+
+Conjunto de datos completo:
+https://drive.google.com/file/d/1EEeNo8H8ijg0XVMVv3pHEnunW2ZzbkKO/view?usp=drive_link
+
+Archivos incluidos:
+- sales.csv
+- sales_final.csv
+
+Para una exploración rápida, se incluye los conjuntos de datos de muestra en este repositorio:
+- sales_sample.csv
+- sales_final_sample.csv
+
 :page_with_curl: Plan de ejecución del Proyecto
 1. *Comprensión inicial de los datos.*
 Se revisó la estructura de las tablas, sus relaciones y los tipos de variables disponibles.
