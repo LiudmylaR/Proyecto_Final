@@ -37,11 +37,10 @@ El propósito final es transformar datos transaccionales en insights accionables
 ├── Dashboard_Proyecto_final.pbix\
 └── README.md
 
-**Conjuntos de datos**
-
+**Conjuntos de datos**\
 El conjunto de datos completo utilizado en este proyecto es extenso y no se puede almacenar directamente en GitHub.
 
-Puede descargarlo aquí:
+Se puede descargarlo aquí:
 
 Conjunto de datos completo:
 https://drive.google.com/file/d/1EEeNo8H8ijg0XVMVv3pHEnunW2ZzbkKO/view?usp=drive_link
@@ -53,6 +52,14 @@ Archivos incluidos:
 Para una exploración rápida, se incluye los conjuntos de datos de muestra en este repositorio:
 - sales_sample.csv
 - sales_final_sample.csv
+
+**Dashboard_Proyecto_final**\
+El Dashboard interactivo de Power BI se puede descargar aquí:
+Power BI Dashboard (.pbix):
+https://drive.google.com/file/d/1j5q8qugl6-akwLVdsYrYwxtnzHj7eGnz/view?usp=sharing
+
+Se incluye Dashboard de vista previa en este repositorio:
+Dashboard_Vista_previa.pdf
 
 :nut_and_bolt: Herramientas Utilizadas
 - Visual Studio Code
