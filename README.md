@@ -37,16 +37,6 @@ El propósito final es transformar datos transaccionales en insights accionables
 ├── Dashboard_Proyecto_final.pbix\
 └── README.md
 
-:nut_and_bolt: Herramientas Utilizadas
-- Visual Studio Code
-- Python
-- Librerias:
-    * Pandas
-    * Numpy
-    * Seaborn
-    * Matplotlib
-- Power BI
-
 **Conjuntos de datos**
 
 El conjunto de datos completo utilizado en este proyecto es extenso y no se puede almacenar directamente en GitHub.
@@ -63,6 +53,16 @@ Archivos incluidos:
 Para una exploración rápida, se incluye los conjuntos de datos de muestra en este repositorio:
 - sales_sample.csv
 - sales_final_sample.csv
+
+:nut_and_bolt: Herramientas Utilizadas
+- Visual Studio Code
+- Python
+- Librerias:
+    * Pandas
+    * Numpy
+    * Seaborn
+    * Matplotlib
+- Power BI
 
 :page_with_curl: Plan de ejecución del Proyecto
 1. *Comprensión inicial de los datos.*
