@@ -52,7 +52,7 @@ Para una exploración rápida, se incluye los conjuntos de datos de muestra en e
 
 **Dashboard_Proyecto_final**\
 El Dashboard interactivo de Power BI se puede descargar aquí:
-Power BI Dashboard (.pbix):
+Power BI Dashboard_Proyecto_final (.pbix):
 https://drive.google.com/file/d/1j5q8qugl6-akwLVdsYrYwxtnzHj7eGnz/view?usp=sharing
 
 Se incluye Dashboard de vista previa en este repositorio:
