@@ -38,17 +38,14 @@ El propósito final es transformar datos transaccionales en insights accionables
 └── README.md
 
 **Conjuntos de datos**\
-El conjunto de datos completo utilizado en este proyecto es extenso y no se puede almacenar directamente en GitHub.
-
-Se puede descargarlo aquí:
-
+El conjunto de datos completo utilizado en este proyecto es extenso y no se puede almacenar directamente en GitHub.\
+Se puede descargarlo aquí:\
 Conjunto de datos completo:
 https://drive.google.com/file/d/1EEeNo8H8ijg0XVMVv3pHEnunW2ZzbkKO/view?usp=drive_link
 
 Archivos incluidos:
 - sales.csv
-- sales_final.csv
-
+- sales_final.csv\
 Para una exploración rápida, se incluye los conjuntos de datos de muestra en este repositorio:
 - sales_sample.csv
 - sales_final_sample.csv
